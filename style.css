@@ -6,6 +6,11 @@ Version: 1.0.0
 Tags: 
 ----------------------*/
 
+body, html{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
 
 
 
